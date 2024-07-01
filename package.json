@@ -1,0 +1,16 @@
+{
+  "name": "cypress-implementation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^13.10.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
